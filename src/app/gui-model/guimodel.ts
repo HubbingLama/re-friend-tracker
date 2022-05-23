@@ -1,6 +1,6 @@
 export class GuiModel {
 
-    /*1 HINWEIS: Texte sind in der Datei ../example-translation-service.ts definiert.
+    /* HINWEIS: Texte sind in der Datei ../example-translation-service.ts definiert.
     Erscheinen Texte in {}, so kann die Übersetzung in example-translation-service.ts definiert werden
     */
 
